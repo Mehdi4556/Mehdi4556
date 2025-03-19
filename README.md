@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 M Mehdi :
 👋 About Me<br>Hi, I'm M Mehdi, a Full-Stack Frontend Developer passionate about building modern, scalable, and high-performance web applications. With expertise in React, Next.js, and the MERN stack, I specialize in creating dynamic user interfaces and seamless user experiences.<br><br>🔹 Tech Stack: React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Drizzle ORM<br>🔹 Experience: POS systems, SaaS applications, e-commerce platforms, and Shopify development<br>🔹 Currently Learning: Advanced JavaScript OOP & Shopify Liquid<br>🔹 Looking For: Frontend or Full-Stack Developer roles<br><br>🚀 I love tackling challenges, optimizing performance, and bringing ideas to life through code. Let's connect and build something amazing together!<br><br>📫 Let's Connect: Portfolio | GitHub
 
 
