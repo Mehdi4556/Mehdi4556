@@ -2,7 +2,7 @@
 
 <p>Passionate Full-Stack Frontend Developer with expertise in React, Next.js, and the MERN stack. I build high-performance, user-friendly web applications with clean, maintainable code. Experienced in POS systems, SaaS platforms, and e-commerce solutions. Always learning and exploring new technologies to craft better digital experiences.</p>
 
-<h2>🧠 Currently Building</h2>
+<h2>🧠 Currently Working</h2>
 <p>
   Currently working on <strong>Meelio</strong> — a modern productivity app — in collaboration with senior developers. The app helps users stay focused through Pomodoro timers, browser-based tools, and immersive soundscapes — all crafted with motion, performance, and simplicity in mind.
 </p>
