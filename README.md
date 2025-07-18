@@ -33,7 +33,7 @@
 </ul>
 
 <h2>🚀 Languages and Tools I Use</h2>
-<!-- ICONS BLOCK - UNCHANGED -->
+<!-- Your icons block -->
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
@@ -64,12 +64,12 @@
 <h2>⚡️ Where to find me</h2>
 <p>
   <a target="_blank" href="https://portfolio-beta-two-39.vercel.app/"><img src="https://img.shields.io/badge/portfolio-visit--now-black?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/muhammad-mehdi-272b0b321/"><img src="https://img.shields.io/badge/linkedin-connect-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/muhammad-mehdi-53952a360/"><img src="https://img.shields.io/badge/linkedin-connect-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a target="_blank" href="https://www.instagram.com/mmehdi.36"><img src="https://img.shields.io/badge/instagram-follow-%23F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
 <h2>📊 GitHub Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehdi4556&show_icons=true&locale=en" alt="Mehdi4556" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehdi4556&" alt="Mehdi4556" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehdi4556&show_icons=true&locale=en&layout=compact" alt="Mehdi4556" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mehdi4556" alt="Mehdi4556" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehdi4556&show_icons=true&locale=en&theme=radical" alt="Mehdi4556" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehdi4556&theme=radical" alt="Mehdi4556" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehdi4556&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mehdi4556" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mehdi4556&theme=radical" alt="Mehdi4556" /></a></p>
