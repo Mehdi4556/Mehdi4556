@@ -1,18 +1,52 @@
-# 💫 M Mehdi :
-👋 About Me<br>Hi, I'm M Mehdi, a Full-Stack Frontend Developer passionate about building modern, scalable, and high-performance web applications. With expertise in React, Next.js, and the MERN stack, I specialize in creating dynamic user interfaces and seamless user experiences.<br><br>🔹 Tech Stack: React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Drizzle ORM<br>🔹 Experience: POS systems, SaaS applications, e-commerce platforms, and Shopify development<br>🔹 Currently Learning: Advanced JavaScript OOP & Shopify Liquid<br>🔹 Looking For: Frontend or Full-Stack Developer roles<br><br>🚀 I love tackling challenges, optimizing performance, and bringing ideas to life through code. Let's connect and build something amazing together!<br><br>📫 Let's Connect: Portfolio | GitHub
+👋 Hello, I'm M Mehdi, a Frontend-Focused Full Stack Developer passionate about building smooth, performant, and animated user experiences.
 
+🧠 Currently working on Meelio, a modern productivity app designed to help users stay focused through tools like Pomodoro timers, browser-based utilities, and interactive soundscapes — all built with performance, simplicity, and motion design in mind.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmehdi.36) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://portfolio-beta-two-39.vercel.app/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehdi.m9092@gmail.com) 
+1️⃣ Tech Stack
+Languages: JavaScript, TypeScript, SQL
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mehdi4556&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mehdi4556&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi4556&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Frameworks & Libraries: React, Next.js, Node.js, Express, Tailwind CSS, ShadCN UI, GSAP
 
----
-[![](https://visitcount.itsvg.in/api?id=Mehdi4556&icon=0&color=0)](https://visitcount.itsvg.in)
+ORM & Databases: Prisma, Drizzle ORM, PostgreSQL, MongoDB
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Tools & Services: Cursor, GitHub Copilot, Vercel, Docker, Cloudinary, Zapier, Figma
+
+DevOps & CI/CD: GitHub Actions, Docker-based deployment, environment configs, automated builds via Vercel
+
+2️⃣ Real-World Work
+Contributing to Meelio, a modern productivity app, in collaboration with senior developers — focusing on frontend performance, animation, and clean UI development
+
+Created a Trading Journal Web App with image upload, calendar view, and trade filtering (daily/weekly/monthly) to help traders track and reflect on performance
+
+Built an AI-Powered Resume Builder App that includes tools like blog generators, SEO title tools, and YouTube tag generators using OpenAI APIs
+
+Implemented scroll-based and interactive animations using GSAP and Framer Motion
+
+Optimized performance on media-heavy pages with lazy loading, dynamic imports, and code-splitting
+
+Used Prisma and Drizzle ORM for robust, type-safe backend development
+
+Set up and managed CI/CD pipelines to automate deployment, streamline workflows, and ensure consistent releases
+
+Leveraged Cursor and GitHub Copilot to speed up development and enhance code quality
+
+3️⃣ What Drives Me
+Passionate about UI animation and meaningful micro-interactions
+
+Focused on delivering clean, scalable, and user-friendly interfaces
+
+Always exploring new tools and patterns to improve performance, accessibility, and development workflow
+
+🌱 Currently Exploring
+
+Advanced animations with GSAP and Framer Motion
+
+Full-stack performance tuning, CI/CD automation, and SSR optimization
+
+🤝 Let’s Connect
+
+📬 Email: mehdi.m9093@gmail.com
+
+🔗 Portfolio: https://portfolio-beta-two-39.vercel.app/
+
+💡 I believe animation isn’t just visual – it’s how users feel your product
